@@ -9,6 +9,8 @@ Everything in this small pack assumes that your `tt.WEEK` is 7 days.
 
 Since this is a gameplay mechanic it's not really meant to be used like an api, but for documentation purposes they are listed here anyways.
 
+<br>
+
 ## Functions
 `dspd:display_date`
 ```
