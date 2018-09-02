@@ -2,6 +2,8 @@
 
 > A small datapack which displays the day of the week when the sun rises.
 
+![Example of it in action](https://i.imgur.com/cdfqvua.png)
+
 ## Notes
 You will need the [TimeTools datapack](https://github.com/Brecert/TimeTools-Datapack) installed to use this datapack
 
