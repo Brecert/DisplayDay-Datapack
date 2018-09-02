@@ -1,0 +1,1 @@
+execute if score server tt.daytime matches 5 run function dspd:display_date
